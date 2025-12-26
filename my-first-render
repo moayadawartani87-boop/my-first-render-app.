@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit: First Render Flask app"
+git branch -M main
+git remote add origin https://github.com/<اسم_المستخدم_الخاص_بك>/my-first-render-app.git
+git push -u origin main
