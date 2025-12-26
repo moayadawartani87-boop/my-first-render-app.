@@ -3,7 +3,7 @@ Topics: flask, python, web-app, starter-template, render
 from flask import Flask
 import os
 
-app = Flask(__name__)
+app = Flask__name__
 
 @app.route('/')
 def home():
