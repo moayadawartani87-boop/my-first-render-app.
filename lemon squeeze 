@@ -1,0 +1,8 @@
+# إضافة زر شراء الكتاب الرقمي
+st.markdown(f'''
+    <a href="https://nextstepsnew.lemonsqueezy.com/checkout/buy/5f16f4bc-0724-4975-8e83-a5d6dca62298" target="_blank">
+        <button style="width:100%; background-color:#7047eb; color:white; padding:15px; border:none; border-radius:10px; font-size:18px; cursor:pointer;">
+            🚀 احصل على كتابي (خطواتي الأولى في البرمجة) الآن
+        </button>
+    </a>
+''', unsafe_allow_html=True)
