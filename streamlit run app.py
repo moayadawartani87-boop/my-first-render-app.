@@ -1,4 +1,4 @@
-streamlit_app.py 
+streamlit 
 from flask import Flask
 import os
 
