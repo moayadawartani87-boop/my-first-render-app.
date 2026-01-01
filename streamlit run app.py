@@ -1,3 +1,7 @@
 streamlit
 pandas
 numpy
+import streamlit as st
+
+st.title("مرحباً بك في تطبيقي الأول!")
+st.write("إذا كنت ترى هذه الرسالة، فهذا يعني أن التطبيق يعمل بنجاح على Render.")
