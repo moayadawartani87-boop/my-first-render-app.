@@ -1,7 +1,9 @@
-streamlit
-pandas
-numpy
 import streamlit as st
+import pandas as pd
+import numpy as np
 
-st.title("مرحباً بك في تطبيقي الأول!")
-st.write("إذا كنت ترى هذه الرسالة، فهذا يعني أن التطبيق يعمل بنجاح على Render.")
+# عرض العنوان الرئيسي
+st.title("مرحباً بك في تطبيقي الأول على Render!")
+
+# عرض نص فرعي
+st.write("تم النشر بنجاح.")
