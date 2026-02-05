@@ -1,0 +1,7 @@
+AION-Commands/
+│
+├─ 01_CreateFolder.sh
+├─ 02_CreateFiles.sh
+├─ 03_InitGit.sh
+├─ 04_PushGit.sh
+├─ 05_EnablePages.sh
